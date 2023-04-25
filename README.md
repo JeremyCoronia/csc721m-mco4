@@ -1,6 +1,6 @@
 # Stock Market Prediction
 
-Machine project in partial fulfillment of the requirements in the class CSC721M (DLSU-M). We used a long short-term memory (LSTM) model to perform stock market prediction. Parameters were explored as to how they affect the accuract in stock market prediction, such as changing the number of LSTM layers, and changing the value of the dropout or learning rate. 
+Machine project in partial fulfillment of the requirements in the class CSC721M (DLSU-M). We used a long short-term memory (LSTM) model to perform stock market prediction. Parameters were explored as to how they affect the accuract in stock market prediction, such as changing the number of LSTM layers, and changing the value of the dropout or learning rate. We used RMSE, MAE, and F-Score for quantitative evaluation. 
 
 ## Data used
 
